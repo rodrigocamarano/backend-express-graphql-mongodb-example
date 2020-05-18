@@ -1,0 +1,28 @@
+{
+  "name": "backend-express-graphql-mongodb-example",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "clear && nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": "https://github.com/rodrigocamarano/backend-express-graphql-mongodb-example.git",
+  "author": "Rodrigo Camarano <rodrigocamarano@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "express-validator": "^6.5.0",
+    "faker": "^4.1.0",
+    "graphql": "^15.0.0",
+    "graphql-tools": "^5.0.0",
+    "helmet": "^3.22.0",
+    "mongoose": "^5.9.14",
+    "validator": "^13.0.0"
+  }
+}
