@@ -3,7 +3,7 @@
 ### Instalação
 Baixe o repositório
 ```sh
-$ git clone https://github.com/rodrigocamarano/backend-express-graphql-mongodb-example
+$ git clone https://github.com/rodrigocamarano/backend-express-graphql-mongodb-example.git
 ```
 Execute os seguintes comandos
 ```sh
